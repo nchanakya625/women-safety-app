@@ -94,6 +94,6 @@ N Chanakya Chandra
 
 GitHub: nchanakya625
 
-Email: your.email@example.com
+Email: nchanakya282001@gmail.com
 
-Project Link: https://github.com/your-username/your-repo-name
+Project Link: https://github.com/nchanakya625/women-safety-app
