@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "69199525355",
+    "project_id": "safetyapp-eacea",
+    "storage_bucket": "safetyapp-eacea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69199525355:android:6fa3bb89b9c136869195ae",
+        "android_client_info": {
+          "package_name": "com.example.safety_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV8mHKJbsLuLRyV6cOAH8gTzZ1da9TPg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
