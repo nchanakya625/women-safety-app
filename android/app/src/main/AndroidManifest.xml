@@ -19,7 +19,7 @@
 
 
     <application
-        android:label="safety_app"
+        android:label="Women's Safety"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
 
